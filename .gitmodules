@@ -1,0 +1,3 @@
+[submodule "blog-sub-repo-auth-server"]
+	path = blog-sub-repo-auth-server
+	url = https://github.com/Observersss/blog-sub-repo-auth-server.git
