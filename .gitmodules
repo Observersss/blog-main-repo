@@ -1,3 +1,9 @@
 [submodule "blog-sub-repo-auth-server"]
 	path = blog-sub-repo-auth-server
 	url = https://github.com/Observersss/blog-sub-repo-auth-server.git
+[submodule "blog-sub-repo-server"]
+	path = blog-sub-repo-server
+	url = https://github.com/Observersss/blog-sub-repo-server.git
+[submodule "blog-sub-repo-client"]
+	path = blog-sub-repo-client
+	url = https://github.com/Observersss/blog-sub-repo-client.git
